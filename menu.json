@@ -1,0 +1,46 @@
+[{
+    "categoria" :  "entrada", 
+    "nombre": "empanadas mini", 
+    "precio":9000
+},
+{ 
+    "categoria" :  "entrada", 
+    "nombre": "aros de cebolla", 
+    "precio":8000
+},
+{
+    "categoria" :  "entrada", 
+    "nombre": "papas fritas", 
+    "precio":10000
+},
+{
+    "categoria" :  "platos fuertes", 
+    "nombre": "mondongo", 
+    "precio":16000
+},
+{
+    "categoria" :  "patos fuertes", 
+    "nombre": "ajiaco", 
+    "precio":18000
+},
+{
+    "categoria" :  "platos fuertes", 
+    "nombre": "carne asada", 
+    "precio":18000
+},
+{
+    "categoria" :  "bebida", 
+    "nombre": "jugo de coco", 
+    "precio":9000
+},
+{
+    "categoria" :  "debida", 
+    "nombre": "limonada", 
+    "precio":9000
+},
+{
+    "categoria" :  "debida", 
+    "nombre": "juego de mango", 
+    "precio":9000
+}
+]
