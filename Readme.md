@@ -21,7 +21,7 @@ pagos.json: Bitácora transaccional de cobros realizados.
 🛠️ Estructura del Menú
 El software se maneja a través de una interfaz de consola organizada de la siguiente manera:
 
-<img width="340" height="200" src="menu.png" />
+<img width="500" height="400" src="menu.png" />
 
 
 ------
