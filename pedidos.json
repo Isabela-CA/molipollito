@@ -1,7 +1,30 @@
-[{
-
-    "cliente": "Juan Perez",
-    "items": "empanadas mini",
-    "precio": "9000"
-}
+[
+    {
+        "cliente": "Juan Perez",
+        "items": "empanadas mini",
+        "cantidad": 1,
+        "precio": 9000,
+        "fecha": "2024-06-15 12:00:00"
+    },
+    {
+        "cliente": "pepe",
+        "items": "limonada",
+        "cantidad": 2,
+        "precio": 9000,
+        "fecha": "2026-01-29 22:10:02"
+    },
+    {
+        "cliente": "sam",
+        "items": "mondongo",
+        "cantidad": 1,
+        "precio": 16000,
+        "fecha": "2026-01-29 23:10:08"
+    },
+    {
+        "cliente": "sam",
+        "items": "juego de mango",
+        "cantidad": 1,
+        "precio": 9000,
+        "fecha": "2026-01-29 23:10:08"
+    }
 ]
