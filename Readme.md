@@ -18,6 +18,13 @@ pagos.json: Bitácora transaccional de cobros realizados.
 
 ------
 
+🛠️ Estructura del Menú
+El software se maneja a través de una interfaz de consola organizada de la siguiente manera:
+
+<img width="884" height="486" src="menu.png" />
+
+
+------
 🚀 Funcionalidades
 
 1. Gestión de Persistencia JSON
